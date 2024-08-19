@@ -1,0 +1,73 @@
+
+
+body {
+    background-color: rgb(173,216,230);
+  }
+  
+  h1 {
+    color: rgb(241, 240, 243);
+    text-align: center;
+    font-size: 40px ;
+  }
+
+  h2 {
+    color:rgb(89,39,32);
+    text-align: center;
+    font-size: 30px ;
+  }
+  h3{
+    color: rgb(89,39,32);
+text-align: center;
+    font-size: 25px ;
+  }
+  
+  p {
+    font-family:  serif;
+    color: rgb(89,39,32);
+    font-size: 20px ;
+    /* text-align: center; */
+  }
+  
+  #ar {
+    color: rgb(89,39,32);
+    text-align: center;
+    font-size: 10px ;
+
+  }
+  #date {
+    color: rgb(89,39,32);
+    text-align: center;
+    font-size: 10px ;
+  }
+  #l1 {
+    color: rgb(89,39,32);
+    text-align: center;
+
+    font-size: 20px ;
+  }
+
+  img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  #copy {
+    color:rgb(89,39,32);
+    text-align: center;
+    font-size: 10px ;
+  }
+
+  ul {
+    color: rgb(89,39,32);
+    
+    font-size: 20px ;
+  }
+  #hh3{
+    color: rgb(89,39,32);
+
+    font-size: 20px ;
+  }
+
+  
